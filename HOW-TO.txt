@@ -1,0 +1,7 @@
+HOW-TO
+Add a license in github MANUALLY (best way to avoid remote - local conficts)
+
+1. Choose a license
+2. Write year and your full name in specific sections inside the license file
+3. create LICENSE.md file
+4. add to repository
